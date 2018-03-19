@@ -1,0 +1,26 @@
+/* Card */
+.smallImg {
+  height: 70px;
+  margin: auto;
+}
+.wideImg {
+  height: 60px;
+  margin: auto;
+}
+.memberImg {
+  height: 110px;
+  width: 110px;
+}
+.cardModified {
+  padding: 0;
+  margin: 10px 10px;
+  border: none;
+}
+.cardBodyModified {
+  padding: 0;
+}
+.cardTitleModified {
+  font-size: 0.7em;
+  text-align: center;
+  margin-top: 4px;
+}
